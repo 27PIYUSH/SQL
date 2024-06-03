@@ -1,0 +1,1 @@
+Only for SQL practice
